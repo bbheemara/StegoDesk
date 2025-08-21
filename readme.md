@@ -57,4 +57,4 @@ Memory optimization techniques
   
 -   #### The UI creates a small thumbnail for display to reduce preview memory.
 
-#### Check out the App here:
+#### Check out the App here: https://github.com/bbheemara/StegoDesk/releases/download/v1.0/StegoDesk.exe
